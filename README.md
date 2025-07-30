@@ -30,7 +30,8 @@ This portfolio is designed to showcase **my professional journey**, **skills**, 
 ## 📷 Screenshots
 
 ### 🔅 Light Mode
-![Light Mode Preview](https://your-repo-link/assets/screenshot-light.png)
+![Light Mode Preview](<img width="1348" height="641" alt="image" src="https://github.com/user-attachments/assets/8ad486e7-ce5a-4754-a7ee-a3d6dca2057f" />
+)
 
 ### 🌙 Dark Mode
 ![Dark Mode Preview](https://your-repo-link/assets/screenshot-dark.png)
