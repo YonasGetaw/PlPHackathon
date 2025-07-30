@@ -30,21 +30,15 @@ This portfolio is designed to showcase **my professional journey**, **skills**, 
 ## 📷 Screenshots
 
 ### 🔅 Light Mode
-![Light Mode Preview](<img width="1348" height="641" alt="image" src="https://github.com/user-attachments/assets/8ad486e7-ce5a-4754-a7ee-a3d6dca2057f" />
-)
-
+<img width="1348" height="641" alt="image" src="https://github.com/user-attachments/assets/8ad486e7-ce5a-4754-a7ee-a3d6dca2057f" />
 ### 🌙 Dark Mode
-![Dark Mode Preview](https://your-repo-link/assets/screenshot-dark.png)
-
+<img width="1341" height="617" alt="image" src="https://github.com/user-attachments/assets/fa88f26f-6549-43ca-95a5-511f1b14dcc3" />
 ### 🧑‍🎓 Education + CV Download
-![Education Section](https://your-repo-link/assets/education-section.png)
-
+<img width="428" height="493" alt="image" src="https://github.com/user-attachments/assets/40138c3d-1499-4bad-be52-663f9fe1d186" />
 ### ⚙️ Skills Section
-![Skills Section](https://your-repo-link/assets/skills-section.png)
-
+<img width="1335" height="606" alt="image" src="https://github.com/user-attachments/assets/01a5be7c-2ffb-4cf5-8b05-edfe88a21850" />
 ### 📞 Contact Us
-![Contact Section](https://your-repo-link/assets/contact-section.png)
-
+<img width="893" height="608" alt="image" src="https://github.com/user-attachments/assets/5011b7ba-2605-4ba9-ad0f-56f249ed68c3" />
 ---
 
 ## 🛠️ Tech Stack
