@@ -1,8 +1,5 @@
 # 🌐 Yonas Getaw – Personal Portfolio Website
-
-![Portfolio Preview Light Mode](https://your-repo-link/assets/screenshot-light.png)
-![Portfolio Preview Dark Mode](https://your-repo-link/assets/screenshot-dark.png)
-
+<img width="1349" height="620" alt="image" src="https://github.com/user-attachments/assets/355d40f2-4e22-487c-92bb-8265fb59a246" />
 ## 📄 Overview
 
 Welcome to the official repository of **Yonas Getaw’s Personal Portfolio**, a responsive, minimalist yet dynamic website crafted entirely with **HTML** and **CSS** – no frameworks, no JavaScript, pure code craftsmanship.
@@ -13,7 +10,7 @@ This portfolio is designed to showcase **my professional journey**, **skills**, 
 
 ## 🔗 Live Demo
 
-🌍 [View Live Website](https://your-portfolio-link.com)
+🌍 [View Live Website](https://yonasgetawhachathon.netlify.app)
 
 ---
 
